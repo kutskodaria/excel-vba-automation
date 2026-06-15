@@ -1,7 +1,7 @@
 # Excel & VBA: Automation, Data Analysis, Dashboards
 
 Data analysis and process automation in Excel using VBA, pivot tables, regression, forecasting, and Solver.
-I work at the intersection of transport logistics, business analytics, and VBA automation. The projects in my portfolio solve real-world problems: inventory control, route optimization, and sales analysis. My skills apply to any industry — finance, retail, warehousing, manufacturing, and more.
+I work at the intersection of transport logistics, business analytics, and VBA automation. The projects in my portfolio solve real-world problems: inventory control, route optimization, and sales analysis. My skills apply to any industry: finance, retail, warehousing, manufacturing, and more.
 
 ---
 
@@ -38,7 +38,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 # Excel & VBA: автоматизация, анализ данных, дашборды
 
 Анализ данных и автоматизация процессов в Excel с помощью VBA, сводных таблиц, регрессии, прогнозирования и «Поиска решения».
-Работаю на стыке транспортной логистики, бизнес-аналитики и VBA-автоматизации. Проекты в портфолио решают реальные задачи: учёт товаров, оптимизация маршрутов, анализ продаж. Мои навыки применимы в любой сфере — финансы, розница, складской учёт, производство и не только.
+Работаю на стыке транспортной логистики, бизнес-аналитики и VBA-автоматизации. Проекты в портфолио решают реальные задачи: учёт товаров, оптимизация маршрутов, анализ продаж. Мои навыки применимы в любой сфере: финансы, розница, складской учёт, производство и не только.
 
 
 ---
