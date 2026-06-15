@@ -21,7 +21,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 
 | Folder | Description |
 |--------|-------------|
-| `01_Data_Analysis` | Pivot tables, correlation and regression analysis, forecasting |
+| `database-dashboard` | Adding filters to all columns on a large database, creating pivot tables, slicers, a pivot chart, and a dashboard that combines everything. |
 | `02_Warehouse` | Inventory tracking (income, expense, balance) |
 | `03_Transport_Optimization` | Route optimization (Travelling Salesman Problem) |
 | `04_VBA_App` | VBA application with user form, data validation, and automated charts |
@@ -59,7 +59,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 
 | Папка | Описание |
 |-------|----------|
-| `01_Data_Analysis` | Сводные таблицы, корреляционно-регрессионный анализ, прогнозирование |
+| `database-dashboard` | Добавление фильтров по всем столбцам на большую базу данных, построение по ней сводных таблиц, срезов, сводной диаграммы и дашборда, обьъединяющего всё это. |
 | `02_Warehouse` | Складской учёт (приход, расход, остатки) |
 | `03_Transport_Optimization` | Оптимизация маршрутов (задача коммивояжёра) |
 | `04_VBA_App` | VBA-приложение с пользовательской формой, проверкой ввода и автоматическим построением диаграмм |
