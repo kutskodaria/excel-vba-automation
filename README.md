@@ -31,7 +31,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 ## Contact
 
 - **Email:** kutskodaria@gmail.com
-- **Telegram:** @kutskodaria
+- **Telegram:** https://t.me/kutskodaria
 - **LinkedIn:** www.linkedin.com/in/kutskodaria
 ---
 
@@ -69,5 +69,5 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 ## Контакты
 
 - **Email:** kutskodaria@gmail.com
-- **Telegram:** @kutskodaria
+- **Telegram:** https://t.me/kutskodaria
 - **LinkedIn:** www.linkedin.com/in/kutskodaria
