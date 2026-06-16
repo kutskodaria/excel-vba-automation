@@ -52,7 +52,7 @@ This folder contains two projects solved with Excel Solver.
 - [transport-routing.xlsx](./transport-routing.xlsx) - Найти кратчайший маршрут между городами по координатам.
 
 **Результат**:
-![Результат транспортной задачи](images/transport-routing.png)
+![Результат транспортной задачи](images/transport-route.png)
 
 **Настройки Поиска решения**:
 ![Настройки Solver для транспорта](images/transport-solver.png)
