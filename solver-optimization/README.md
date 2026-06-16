@@ -7,9 +7,11 @@ This folder contains two projects solved with Excel Solver.
 - [production-planning.xlsx](./production-planning-solver.xlsx) - An order needs to be distributed between 4 masters. Each master has different productivity and tariff rate. Find the optimal distribution to minimize total time and cost.
 
 **Result**:
+
 ![Production planning result](images/production-result.png)
 
 **Solver settings**:
+
 ![Production Solver settings](images/production-solver.png)
 
 ---
@@ -17,9 +19,11 @@ This folder contains two projects solved with Excel Solver.
 - [transport-routing.xlsx](./transport-routing.xlsx) - Find the shortest route between cities using their coordinates.
 
 **Result**:
+
 ![Transport routing result](images/transport-route.png)
 
 **Solver settings**:
+
 ![Transport Solver settings](images/transport-solver.png)
 
 ---
@@ -42,9 +46,11 @@ This folder contains two projects solved with Excel Solver.
 - [production-planning.xlsx](./production-planning-solver.xlsx) - Распределить заказ между 4 мастерами. У каждого мастера разная производительность и тарифная ставка. Найти оптимальное распределение, чтобы минимизировать общее время и стоимость.
 
 **Результат**:
+
 ![Результат планирования производства](images/production-result.png)
 
 **Настройки Поиска решения**:
+
 ![Настройки Solver для производства](images/production-solver.png)
 
 ---
@@ -52,9 +58,11 @@ This folder contains two projects solved with Excel Solver.
 - [transport-routing.xlsx](./transport-routing.xlsx) - Найти кратчайший маршрут между городами по координатам.
 
 **Результат**:
+
 ![Результат транспортной задачи](images/transport-route.png)
 
 **Настройки Поиска решения**:
+
 ![Настройки Solver для транспорта](images/transport-solver.png)
 
 ---
