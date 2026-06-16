@@ -26,6 +26,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 | [statistical-analysis](./statistical-analysis) | Correlation, regression, histograms, descriptive statistics |
 | [vba-apps](./vba-apps) | VBA applications: macros, user forms, validation, charts |
 | [warehouse](./warehouse) | Warehouse accounting: income, expense, balance |
+| [research](./research) | My scientific publications on logistics, economics, and sustainable development |
 
 ---
 
@@ -65,6 +66,7 @@ I work at the intersection of transport logistics, business analytics, and VBA a
 | [statistical-analysis](./statistical-analysis) | Корреляция, регрессия, гистограммы, описательная статистика |
 | [vba-apps](./vba-apps) | VBA-приложения: макросы, формы, валидация, диаграммы |
 | [warehouse](./warehouse) | Складской учёт: приход, расход, остатки |
+| [research](./research) | Мои научные публикации по логистике, экономике, устойчивому развитию |
 
 ---
 
