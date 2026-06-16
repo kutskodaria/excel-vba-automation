@@ -17,7 +17,7 @@ This folder contains two projects solved with Excel Solver.
 - [transport-routing.xlsx](./transport-routing.xlsx) - Find the shortest route between cities using their coordinates.
 
 **Result**:
-![Transport routing result](images/transport-routing.png)
+![Transport routing result](images/transport-route.png)
 
 **Solver settings**:
 ![Transport Solver settings](images/transport-solver.png)
