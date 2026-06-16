@@ -19,6 +19,7 @@ extracting economic value from product return flows.
 ### 2. «Green inflation»: the essence of the phenomenon
  The purpose of this article is to analyze the nature and causes of the phenomenon of "green inflation" (greenflation) defined as a sustained rise in prices caused by a fundamental economic restructuring toward decarbonization.
  [Collection of materials](http://edoc.bseu.by:8080/handle/edoc/107431) p. 42-43.  
+ 
 ---
 
 ### 3. The role of China in the professional activities of logistics specialists in Belarus
