@@ -8,6 +8,10 @@ This file contains a dashboard and data analysis for a logistics company.
 - **Database with filters on all columns**;
 - **Dashboard**: Interactive panel with slicers, pivot tables, and a pivot chart.
 
+  ## Preview
+
+![Dashboard preview](images/dashboard-preview.png)
+
 ## Skills demonstrated
 
 - Pivot tables and charts;
@@ -26,6 +30,10 @@ This file contains a dashboard and data analysis for a logistics company.
 - **Исходные данные**: База данных с категориями товаров, их ценами, количеством, заказчиками и датами доставки;
 - **База данных с фильтрами по всем столбцам**;
 - **Дашборд**: Интерактивная панель со срезами, сводными таблицами и сводной диаграммамой.
+
+  ## Скриншот
+
+![Превью дашборда](images/dashboard-preview.png)
 
 ## Используемые навыки
 
