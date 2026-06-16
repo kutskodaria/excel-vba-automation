@@ -34,7 +34,7 @@ The approach works for different business tasks - whether tracking electricity p
 
 ## Skills demonstrated
 
-- VBA (UserForms, event-driven automation)
+- VBA (macros, UserForms, event-driven automation)
 - Input validation (empty fields, data types, error handling with MsgBox)
 - Writing data to Excel sheets
 - Dynamic chart generation
@@ -77,7 +77,7 @@ The approach works for different business tasks - whether tracking electricity p
 
 ## Навыки
 
-- VBA (пользовательские формы, событийная автоматизация)
+- VBA (макросы, пользовательские формы, событийная автоматизация)
 - Валидация данных (проверка заполнения, типов данных, обработка ошибок через MsgBox)
 - Запись данных в Excel
 - Автоматическое построение диаграмм
